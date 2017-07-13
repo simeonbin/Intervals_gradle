@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intervals.iml" filepath="$PROJECT_DIR$/.idea/modules/intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intervals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/intervals_main.iml" group="intervals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intervals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/intervals_test.iml" group="intervals" />
+    </modules>
+  </component>
+</project>
